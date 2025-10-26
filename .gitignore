@@ -31,8 +31,8 @@ venv/
 __pycache__/
 *.pyc
 
-# Models
-models/
+# # Models
+# models/
 
-# Optional: data folder if large or sensitive
-data/
+# # Optional: data folder if large or sensitive
+# data/
